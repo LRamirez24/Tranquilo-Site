@@ -1,2 +1,2 @@
-# Tranquilo-Site
-Game Site
+# PersonalSite
+A new website to showcase my projects
